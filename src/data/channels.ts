@@ -231,6 +231,11 @@ name: 'AllTV',
   type: 'mpd',
   logo: 'https://th.bing.com/th/id/OIP.MPPdJ1ObiLG4Q6MFEDQ4pAHaEH?rs=1&pid=ImgDetMain'
 }, {
+name: 'Discovery Asia',
+  manifestUri: 'https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8',
+  type: 'hls',
+  logo: 'https://tse3.mm.bing.net/th/id/OIP.AsWMXNgodn2gObgP-wQH9gAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3'
+}, {
   name: 'Discovery Channel',
   manifestUri: 'https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd',
   clearKey: {
