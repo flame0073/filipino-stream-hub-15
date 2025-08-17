@@ -73,14 +73,6 @@ name: 'AllTV',
   type: 'mpd',
   logo: 'https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png'
 }, {
-  name: 'AXN Movies',
-  manifestUri: 'https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd',
-  clearKey: {
-    'f9e4be09926c262effa2b5381ae3553d': 'd630e04e0c5e3f98dc38840be1c1dd4c'
-  },
-  type: 'mpd',
-  logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/220px-AXN_Movies_logo.jpg'
-}, {
   name: 'BBC Earth',
   manifestUri: 'https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd',
   clearKey: {
