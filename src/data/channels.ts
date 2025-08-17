@@ -330,7 +330,7 @@ name: 'GMA (Youtube Stream)',
   logo: 'https://th.bing.com/th/id/OIP.0gpjrMJZ4u5zx81mPvskNwAAAA?rs=1&pid=ImgDetMain'
 }, {
   name: 'hallypop',
-  manifestUri: 'https://jungotvstream.chanall.tv/jungotv/hallypop/stream.m3u8',
+  manifestUri: 'https://jungotvstream.chanall.tv/jungotv/hallypop/playlist_1080p.m3u8',
   type: 'hls',
   logo: 'https://static.wixstatic.com/media/3f6f0d_6b141fb2470c4d0d9210f6cac32075ac~mv2.png/v1/fill/w_600,h_139,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Hallypop_Logo_FullColor.png'
 }, {
